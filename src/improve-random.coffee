@@ -1,5 +1,5 @@
 # Description
-#   A hubot script that replaces msg.random method
+#   A hubot script that replaces Response::random method
 #
 # Author:
 #   notok <noto.kazufumi@gmail.com>

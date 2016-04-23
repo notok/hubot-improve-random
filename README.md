@@ -1,8 +1,10 @@
 # hubot-improve-random
 
-A hubot script that replaces msg.random method
+A hubot script that replaces Response::random method
 
 See [`src/improve-random.coffee`](src/improve-random.coffee) for full documentation.
+
+This script provides no commands, but replaces `Response::random` method to use `random-js`.
 
 ## Installation
 
@@ -16,11 +18,4 @@ Then add **hubot-improve-random** to your `external-scripts.json`:
 [
   "hubot-improve-random"
 ]
-```
-
-## Sample Interaction
-
-```
-user1>> hubot hello
-hubot>> hello!
 ```

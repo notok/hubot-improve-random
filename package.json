@@ -1,16 +1,16 @@
 {
   "name": "hubot-improve-random",
-  "description": "A hubot script that replaces msg.random method",
-  "version": "0.0.0",
+  "description": "A hubot script that replaces Response::random method",
+  "version": "0.0.1",
   "author": "notok <noto.kazufumi@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, random",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-improve-random.git"
+    "url": "git://github.com/notok/hubot-improve-random.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-improve-random/issues"
+    "url": "https://github.com/notok/hubot-improve-random/issues"
   },
   "dependencies": {
     "random-js": "^1.0.8"
